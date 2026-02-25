@@ -166,6 +166,12 @@ table{
     width:42%;
 }
 
+@media (max-width: 960px) {
+  .col-uni {
+    padding-right: 40px;
+  }
+}
+
 .exTitle{
     padding-top:35px;
     padding-bottom:7px;
